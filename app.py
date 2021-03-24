@@ -36,7 +36,7 @@ class Customer(StatesGroup):
 # dp = Dispatcher(bot, storage=MemoryStorage())
 
 global a, b
-
+#это лишнее
 
 
 
